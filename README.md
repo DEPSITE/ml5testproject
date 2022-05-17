@@ -124,6 +124,9 @@
 <br>
 <h2>예상되는 결과물</h2>
 <div>
+  <h3>
+    
+  </h3>
   <img width=40% src="https://user-images.githubusercontent.com/62496275/168790843-e5e9b481-427f-40a1-b8b9-f8f7434b58e1.JPG">
   <h3>
     기대효과 및 활용방안
