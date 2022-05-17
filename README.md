@@ -9,6 +9,6 @@
 <hr>
 
 <h3>자료사진</h3>
-![K-013](https://user-images.githubusercontent.com/62496275/168753609-2f58c172-4020-4f26-a992-3d1ef8a309d3.png)
+<img src="https://user-images.githubusercontent.com/62496275/168753609-2f58c172-4020-4f26-a992-3d1ef8a309d3.png">
 
 https://codepen.io/fleemaja/pen/jOPmXyZ
