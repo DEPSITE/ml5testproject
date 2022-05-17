@@ -126,3 +126,4 @@
 <br>
 https://wikidocs.net/103185 - ml5.js 사용법<br>
 https://codepen.io/fleemaja/pen/jOPmXyZ Kayak Game - open source
+https://kr.mathworks.com/discovery/deep-learning.html matlab deep learning
