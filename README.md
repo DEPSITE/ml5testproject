@@ -75,12 +75,22 @@
 <h2>과제 개요</h2>
 <div>
   <h3>과제 배경</h3>
+  <h4>
+    딥러닝이란 여러 층을 가진 인공신경망을 사용하여 기계를 학습시키는 머신 러닝의 일종이며<br>
+    딥러닝은 현대 인공지능 기술의 핵심이자 앞으로 더더욱 각광받게 될 기술이다.<br>
+    또한 딥러닝 데이터로 영상, 사진 또는 그래픽까지 많이 활용하고 있기 때문에<br>
+    딥러닝과 컴퓨터 그래픽스를 결합하여 과제를 수행하고자 한다.
+  </h4>
   
 </div>
 <br>
 <div>
   <h3>과제 필요성</h3>
-  
+  <h4>
+    현대에는 잦은 컴퓨터 사용으로 인해 많은 사람들이 손목 터널 증후군과 같은 질환으로 고통받고 있다.<br>
+    이러한 현대인들의 질환들을 예방하기 위해서 무게가 있는 컨트롤러를 사용하지 않고 손동작 인식과 같이<br>
+    딥러닝을 이용하여 컨트롤러 없이 조작을 할 수 있도록 이 과제가 필요하다.
+  </h4>
 </div>
 <br>
 <div>
@@ -125,5 +135,4 @@
 <h2>참고 문헌</h2>
 <br>
 https://wikidocs.net/103185 - ml5.js 사용법<br>
-https://codepen.io/fleemaja/pen/jOPmXyZ Kayak Game - open source<br>
-https://kr.mathworks.com/discovery/deep-learning.html matlab deep learning<br>
+https://codepen.io/fleemaja/pen/jOPmXyZ Kayak Game - open source
