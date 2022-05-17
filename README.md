@@ -16,3 +16,5 @@
 출처 : https://codepen.io/fleemaja/pen/jOPmXyZ Kayak Game - open source
 <hr>
 <h3>진행방식</h3>
+<img width=30% src="https://user-images.githubusercontent.com/62496275/168756663-7e0fb6fa-7c13-4a67-ac74-7aef1782efce.png">
+<h4>먼저 웹캠과 같은 기기를 이용하여 영상을 불러오고, ml5.js를 이용해서 </h4>
