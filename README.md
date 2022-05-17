@@ -14,3 +14,5 @@
 출처 : https://wikidocs.net/103185
 <img width=30% src="https://user-images.githubusercontent.com/62496275/168754324-31133957-8f0f-4035-8883-66ac04319b69.PNG">
 출처 : https://codepen.io/fleemaja/pen/jOPmXyZ Kayak Game - open source
+<hr>
+<h3>진행방식</h3>
