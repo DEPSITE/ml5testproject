@@ -13,4 +13,4 @@
 <img width=30% src="https://user-images.githubusercontent.com/62496275/168753609-2f58c172-4020-4f26-a992-3d1ef8a309d3.png">
 출처 : https://wikidocs.net/103185
 <img width=30% src="https://user-images.githubusercontent.com/62496275/168754324-31133957-8f0f-4035-8883-66ac04319b69.PNG">
-출처 : https://codepen.io/fleemaja/pen/jOPmXyZ Kayak Game
+출처 : https://codepen.io/fleemaja/pen/jOPmXyZ Kayak Game - open source
