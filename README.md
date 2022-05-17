@@ -12,7 +12,7 @@
 https://codepen.io/fleemaja/pen/jOPmXyZ
 
 <h3>사용언어</h3>
-JavaScript
+<img src="https://img.shields.io/badge/JavaScript-FF00CC?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 <h3>프로젝트 기대효과</h3>
 딥러닝을 게임에 적용해 봄으로써 어떤 방식으로 해야 인식을 잘할 수 있는지 알아볼 수 있다. 또한 사용자가 키보드 대신 손동작을 이용하여 게임을 조작함으로써 손목터널 증후군과 같은 키보드 사용으로 인한 질환의 발생 확률을 내릴 것으로 기대해 본다.
