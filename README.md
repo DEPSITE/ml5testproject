@@ -145,6 +145,6 @@
 <h2>참고 문헌</h2>
 <br>
 https://wikidocs.net/103185 - ml5.js 사용법<br>
-https://codepen.io/fleemaja/pen/jOPmXyZ Kayak Game - open source
-http://news.bizwatch.co.kr/article/industry/2022/04/22/0033 Hand Tracking - News
+https://codepen.io/fleemaja/pen/jOPmXyZ Kayak Game - open source<br>
+http://news.bizwatch.co.kr/article/industry/2022/04/22/0033 Hand Tracking - News<br>
 https://www.koreascience.or.kr/article/JAKO201919866854640.pdf Real-Time Hand Gesture Recognition Based on Deep Learnin - Paper
